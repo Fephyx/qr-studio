@@ -106,6 +106,4 @@ QR Studio can be deployed to a Next.js-compatible hosting provider, such as [Ver
 
 The QR payload is generated in the browser by the app. Treat the resulting QR code as public information once you share or publish it. In particular, a Wi-Fi QR code can reveal network access details, and a payment QR contains the payment information entered into the form.
 
-## License
-
-No license has been specified yet. Unless a license is added to this repository, others should not assume that the source code is licensed for reuse.
+by: Fephyx
